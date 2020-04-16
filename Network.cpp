@@ -2,7 +2,7 @@
 #include <string>			// For string functions for number extraction after file reading
 #include <fstream>			// For file reading
 #include <vector>			// For vector functions
-#include <algorithm>		// For advance functions like sort and unique
+#include <algorithm>			// For advance functions like sort and unique
 
 using namespace std;
 
